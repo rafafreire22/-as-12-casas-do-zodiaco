@@ -1,0 +1,16 @@
+*{
+    background-color: black;
+    margin: 10px;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    color: aliceblue;
+}
+h1{
+    color: aliceblue;
+}
+button {
+    color: rgb(255, 255, 255);
+    background-color: rgb(64, 75, 155);
+}
